@@ -17,3 +17,11 @@ The Data is relatively clean and require no further cleaning for this exploratio
 ## Key Insights for Presentation
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+
+
+## Reference
+    https://www.prosper.com/
+    https://www.investopedia.com/prosper-personal-loans-review-4843741
+    https://www.lawinsider.com/dictionary/loan-listing.
+    https://www.prosper.com/invest/how-to-invest/prosper-ratings/?mod=article_inline
+
